@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
 __author__ = 'MaoWei'
-
 __date__ = '2017/10/25'
+__version__ = 'V1.0'
 
 
 from Tkinter import *
