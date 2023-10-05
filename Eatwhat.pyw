@@ -4,7 +4,7 @@ __author__ = 'MaoWei'
 __date__ = '2017/10/25'
 __version__ = 'V1.0'
 
-import tkinter
+from tkinter import *
 import random
 
 time1 = 0
